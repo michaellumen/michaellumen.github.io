@@ -1,0 +1,16 @@
+body{
+    min-height: 3000px;
+}
+.jumbotron{
+    padding-top: 7rem;
+    background-color: #071952;
+    /* background-color: #5BC0F8; */
+}
+
+#education{
+    background-color: #071952;
+}
+.footer{
+    background-color: #19376D;
+    padding: 25px;
+}
